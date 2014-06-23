@@ -1,0 +1,102 @@
+#half1
+{
+	width : 40%;
+	float:left;
+	min-height : 70%;
+	border : 10px solid gray;
+}
+
+#half2
+{
+	width : 40%;
+	float:left;
+	min-height : 70%;
+	border : 10px solid gray;
+	//padding-top : 20px;
+	//padding-left : 10px;
+}
+
+#head
+{
+	width : 83%;
+}
+#controls
+{
+	height : 20%;
+	float:left;
+	width : 100%;
+	background : green;
+	text-align : center;
+}
+#container
+{
+	height : 70%;
+	float:left;
+	width : 100%;
+	background : blue ;
+	text-align : center;	
+}
+
+.code
+{
+	background : rgb(182, 177, 177);
+	height : auto;
+	width : auto;
+	margin-left : 50px;
+	margin-right : 50px;
+}
+
+.ind1
+{
+	padding-left : 20px;
+}
+input
+{
+  display: inline-block;
+  float: left;
+  border-right: #a9a9a9 1px solid;
+  padding-right: 4px;
+  border-top: #a9a9a9 1px solid;
+  padding-left: 4px;
+  padding-bottom: 8px;
+  border-left: #a9a9a9 1px solid;
+  padding-top: 8px;
+  border-bottom: #a9a9a9 1px solid;
+}
+
+select 
+{
+	display: inline-block;
+  float: left;
+  border-right: #a9a9a9 1px solid;
+  padding-right: 4px;
+  border-top: #a9a9a9 1px solid;
+  padding-left: 4px;
+  padding-bottom: 8px;
+  border-left: #a9a9a9 1px solid;
+  padding-top: 8px;
+  border-bottom: #a9a9a9 1px solid;
+}
+.g
+{
+	display: inline-block;
+  float: left;
+  
+  padding-right: 4px;
+  
+
+  padding-bottom: 8px;
+  
+  padding-top: 8px;
+  
+  
+}
+	
+label{
+	padding-top : 8px;
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 175px;
+    text-align: right;
+}
