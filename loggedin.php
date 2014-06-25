@@ -79,7 +79,7 @@
 	if($outputform)
 	{
 	?>
-	<form action="<?php echo $_SERVER['PHP SELF'];?>" method="post" enctype="multipart/form-data">
+	<form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post" enctype="multipart/form-data">
 	
 	<input type="file" name="file" id="file"><br>
 	<input type="submit" name="filesubmit" value="Submit">

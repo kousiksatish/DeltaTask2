@@ -116,7 +116,7 @@
 		if($outputform)
 		{
 	?>
-		<form method="post" action="<?php echo $_SERVER['PHP SELF'];?>">
+		<form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
 			<label>Name : </label><input type = "text" name = "name" placeholder = "Name">
 			<br>
 			<label>Roll no. : </label><input type = "text" name="rollno" placeholder = "9 digit roll no.">
